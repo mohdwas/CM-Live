@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.e.cmlive">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.SearchActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.WatchLiveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.TotalCashOutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.CashOutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.CashOutAgreementActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.ConvertCoinsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.DiamondBalanceActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.SettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.StartLiveActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.AddDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.OtpVerificationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.LoginPhoneActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.LoginPasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.ChooseLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.HomeActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".activities.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

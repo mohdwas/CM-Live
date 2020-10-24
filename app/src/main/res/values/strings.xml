@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">CMLive</string>
+
+    <string name="cm_live_live_streaming_platform_to_make_friends_show_talent_and_earn_money">CM Live - Live streaming platform to make friends, show talent and earn money</string>
+    <string name="click_to_read_terms_amp_conditions_and_privacy_policy"><![CDATA[Click to read Terms & Conditions and Privacy Policy]]></string>
+    <string name="phone">Phone</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="help">Help</string>
+    <string name="or">OR</string>
+    <string name="google_login">Google Login</string>
+    <string name="sign_up_sign_in">Sign Up, Sign In</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="your_number_is_completely_safe_with_us">Your number is completely safe with us</string>
+    <string name="next">Next</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="verification_code_has_been_sent_to_91">Verification code has been sent to +91</string>
+    <string name="mobile_number">8956235689</string>
+    <string name="resend">Resend</string>
+    <string name="add_location">Add New Location</string>
+    <string name="verify">Verify</string>
+    <string name="recent_add">Recent searches</string>
+    <string name="location">Use my location</string>
+    <string name="address1">Search for nearby landmark,locality</string>
+    <string name="address">Unname road village tajpura Saharanpur</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="code_login">Code Login</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="save">Save</string>
+    <string name="avatar">Avatar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="featured">Featured</string>
+    <string name="nearby">Nearby</string>
+    <string name="follow_by">Follow By</string>
+    <string name="followed_broadcast">Followed Broadcast</string>
+    <string name="follow">Follow</string>
+    <string name="recommend">Recommend</string>
+    <string name="me">Me</string>
+    <string name="recharge">Recharge</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="contacts">Contacts</string>
+    <string name="top_fans">Top Fans</string>
+    <string name="history">History</string>
+    <string name="visitor_records">Visitor Records</string>
+    <string name="fans_group">Fans Group</string>
+    <string name="inbox">Inbox</string>
+    <string name="active_recently">Active Recently</string>
+    <string name="notifications">Notifications</string>
+    <string name="message_from_strangers">Message from strangers</string>
+    <string name="no_new_greetings">No new Greetings</string>
+    <string name="followings">Followings</string>
+    <string name="fan">Fan</string>
+    <string name="coins">Coins</string>
+    <string name="diamonds">Diamonds</string>
+    <string name="welcome_to_my_broadcast">Welcome to my broadcast</string>
+    <string name="category">Category</string>
+    <string name="go_live">Go Live</string>
+    <string name="settings">Settings</string>
+    <string name="account_and_security">Account and Security</string>
+    <string name="connected_accounts">Connected Accounts</string>
+    <string name="faq">FAQ</string>
+    <string name="privacy">Privacy</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate us</string>
+    <string name="verified_user_criteria">Verified user criteria</string>
+    <string name="block_list">Block List</string>
+    <string name="general">General</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="about_us">About us</string>
+    <string name="logout">Logout</string>
+    <string name="app_update">App Update</string>
+    <string name="diamond_balance">Diamond Balance</string>
+    <string name="total_diamonds">Total Diamonds: </string>
+    <string name="cash_out">Cash Out</string>
+    <string name="convert_to_coins">Convert to coins</string>
+    <string name="what_are_diamonds">What are diamonds ?</string>
+    <string name="agree_and_cash_out">Agree and Cash Out</string>
+    <string name="record">Record</string>
+    <string name="total_amount_if_each_cash_out">Total amount if each cash out</string>
+    <string name="send">Send</string>
+    <string name="_20_coins_message">20 Coins/Message</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="male">Male</string>
+    <string name="my_income">My Income</string>
+    <string name="some_random_text"><![CDATA[Not everyone knows how to make a Privacy Policy agreement, especially with CCPA or GDPR or CalOPPA or PIPEDA or Australia\'s Privacy Act provisions. If you are not a lawyer or someone who is familiar to Privacy Policies, you will be clueless. Some people might even take advantage of you because of this. Some people may even extort money from you. These are some examples that we want to stop from happening to you. We will help you protect yourself by generating a Privacy Policy. Our Privacy Policy Generator can help you make sure that your business complies with the law. We are here to help you protect your business, yourself and your customers. Fill in the blank spaces below and we will create a personalized website Privacy Policy for your business. No account registration required. Simply generate & download a Privacy Policy in seconds! Small remark when filling in this Privacy Policy generator: Not all parts of this Privacy Policy might be applicable to your website. When there are parts that are not applicable, these can be removed. Optional elements can be selected in step 2. The accuracy of the generated Privacy Policy on this website is not legally binding. Use at your own risk.]]></string>
+
+    <string-array name="items">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

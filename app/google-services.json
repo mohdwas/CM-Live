@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89528909517",
+    "firebase_url": "https://cm-live-2b649.firebaseio.com",
+    "project_id": "cm-live-2b649",
+    "storage_bucket": "cm-live-2b649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89528909517:android:0f5a27ff23c6e835ed3384",
+        "android_client_info": {
+          "package_name": "com.e.cmlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89528909517-cnitr9rltqpsea03clv2rb91aj1n6bp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.cmlive",
+            "certificate_hash": "8bcd051f89d0250db24c953913b36198d561dc90"
+          }
+        },
+        {
+          "client_id": "89528909517-u0is0kglguigm2kbnr7apkv6f4d8jpnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWjOQzjBNr7YuLMv8bduRGGrQQAc23BhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89528909517-u0is0kglguigm2kbnr7apkv6f4d8jpnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
